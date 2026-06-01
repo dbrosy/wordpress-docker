@@ -1,0 +1,6 @@
+# Ignore version control systems
+.git
+.gitignore
+
+# Local configuration and development environments
+.env
